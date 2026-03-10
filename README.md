@@ -1,8 +1,4 @@
 
-
-
-
-Respuesta de IA
 <!DOCTYPE html>
 <html lang="es">
 <head>
